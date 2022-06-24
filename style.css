@@ -1,0 +1,27 @@
+body {
+ background-color: black;
+ border-width: 50px;
+ border:double;
+ text-align: center;
+}
+
+#lol1{
+ font-style: oblique;
+color:aliceblue;
+border: double;
+text-align: center;
+}
+
+#lol2{
+ font-style:italic;
+color:aliceblue;
+border: double;
+text-align: center;
+}
+
+#lol3{
+ font-style:italic;
+color:aliceblue;
+border: double;
+text-align:center;
+}
